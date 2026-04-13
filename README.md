@@ -49,9 +49,6 @@ My work centers on developing robust Laravel applications, dynamic interfaces wi
 
 ### 🟢 Current Projects
 
-* **SaaS Platform (TALL Stack)** — Multi-tenant application with authentication, billing, and dashboards *(in progress)*
-* **Library Management Platform** — Role-based system for managing digital and physical library operations
-
 ### 🔵 Completed Projects
 
 
