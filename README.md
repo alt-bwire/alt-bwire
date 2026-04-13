@@ -1,38 +1,40 @@
 # 👋 Emmanuel Bwire
 
-**Software Engineer | Backend & Full-Stack Development**
+**Software Engineer | TALL Stack (Laravel, Livewire, Alpine, Tailwind)**
 
-I build scalable web applications and backend systems using Laravel and modern JavaScript.
+I design and build scalable web applications using the TALL stack, focusing on backend systems, clean architecture, and production-ready platforms.
 
-My focus is on designing reliable APIs, data-driven platforms, and production-ready systems that solve real-world problems.
+My work centers on developing robust Laravel applications, dynamic interfaces with Livewire, and efficient user experiences powered by Alpine.js and Tailwind CSS.
 
 ---
 
 ## 🚀 Engineering Focus
 
 * Backend development with Laravel
+* Building dynamic interfaces using Livewire
+* Full-stack application development (TALL stack)
 * RESTful API design & integration
-* Full-stack web applications
-* Database design & optimization
-* System performance & refactoring
+* Database design & optimization (MySQL)
+* System refactoring and performance improvements
 
 ---
 
 ## 🧰 Tech Stack
 
-**Backend**
+### Backend
 
 * PHP (Laravel)
+* Livewire
 * MySQL
-* REST APIs
 
-**Frontend**
+### Frontend
 
-* JavaScript
-* React
 * Tailwind CSS
+* Alpine.js
+* HTML5 / CSS3
+* Vanilla Javascript
 
-**Tools**
+### Tools & Environment
 
 * Git & GitHub
 * Linux
@@ -41,31 +43,68 @@ My focus is on designing reliable APIs, data-driven platforms, and production-re
 
 ---
 
-## 📌 Featured Work
+## 📌 Projects
 
-* Library Management Platform
-* Pet Store Management System
-* Weather Data Dashboard
-* AI Chat Interface
+> This section is actively updated with current and completed work.
+
+### 🟢 Current Projects
+
+* **SaaS Platform (TALL Stack)** — Multi-tenant application with authentication, billing, and dashboards *(in progress)*
+* **Library Management Platform** — Role-based system for managing digital and physical library operations
+
+### 🔵 Completed Projects
+
+
+---
+
+## 🧱 Architecture & Engineering Approach
+
+* Build maintainable and scalable systems
+* Follow clean code and modular architecture principles
+* Optimize database performance and query efficiency
+* Focus on real-world problem solving over demos
+* Write code that supports long-term product growth
 
 ---
 
 ## 🤝 Open to Collaboration
 
-I’m interested in working on:
+I’m interested in collaborating on:
 
-* Laravel applications
-* Backend/API systems
-* SaaS platforms
-* Startup MVPs
+* Laravel / Livewire applications
+* SaaS platforms and startup MVPs
+* Backend systems and APIs
+* System refactoring and performance optimization
+* Open-source engineering projects
 
 ---
 
 ## 📫 Contact
 
-📧 [emmanuelbwire80@gmail.com](mailto:emmanuelbwire80@gmail.com)
-💼 https://www.linkedin.com/in/bwire23
+📧 **[emmanuelbwire80@gmail.com](mailto:emmanuelbwire80@gmail.com)**
+💼 **LinkedIn:** https://www.linkedin.com/in/bwire23
 
 ---
 
-⭐ Always open to meaningful engineering work and collaborations.
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bwire40&show_icons=true&theme=dracula" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bwire40&layout=compact&theme=dracula" height="150"/>
+
+</div>
+
+---
+
+## ⚡ Engineering Philosophy
+
+* Prioritize simplicity and clarity
+* Build systems, not just features
+* Write maintainable and testable code
+* Deliver real value through software
+* Continuously improve architecture and performance
+
+---
+
+⭐ *Open to meaningful collaborations, challenging projects, and professional opportunities.*
