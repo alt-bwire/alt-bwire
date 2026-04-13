@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Emmanuel Bwire
 
-<!--
-**alt-bwire/alt-bwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend & Full-Stack Development**
 
-Here are some ideas to get you started:
+I build scalable web applications and backend systems using Laravel and modern JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on designing reliable APIs, data-driven platforms, and production-ready systems that solve real-world problems.
+
+---
+
+## 🚀 Engineering Focus
+
+* Backend development with Laravel
+* RESTful API design & integration
+* Full-stack web applications
+* Database design & optimization
+* System performance & refactoring
+
+---
+
+## 🧰 Tech Stack
+
+**Backend**
+
+* PHP (Laravel)
+* MySQL
+* REST APIs
+
+**Frontend**
+
+* JavaScript
+* React
+* Tailwind CSS
+
+**Tools**
+
+* Git & GitHub
+* Linux
+* Docker
+* Postman
+
+---
+
+## 📌 Featured Work
+
+* Library Management Platform
+* Pet Store Management System
+* Weather Data Dashboard
+* AI Chat Interface
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m interested in working on:
+
+* Laravel applications
+* Backend/API systems
+* SaaS platforms
+* Startup MVPs
+
+---
+
+## 📫 Contact
+
+📧 [emmanuelbwire80@gmail.com](mailto:emmanuelbwire80@gmail.com)
+💼 https://www.linkedin.com/in/bwire23
+
+---
+
+⭐ Always open to meaningful engineering work and collaborations.
