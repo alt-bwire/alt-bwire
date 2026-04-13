@@ -78,7 +78,7 @@ I’m interested in collaborating on:
 
 ## 📫 Contact
 
-📧 **[emmanuelbwire80@gmail.com](mailto:emmanuelbwire80@gmail.com)**
+📧 **[ebwire254@gmail.com](mailto:emmanuelbwire80@gmail.com)**
 💼 **LinkedIn:** https://www.linkedin.com/in/bwire23
 
 ---
