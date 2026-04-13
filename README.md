@@ -92,7 +92,6 @@ I’m interested in collaborating on:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alt-bwire&layout=compact&theme=dracula" height="150"/>
 
 </div>
----
 
 ## ⚡ Engineering Philosophy
 
