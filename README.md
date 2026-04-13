@@ -85,13 +85,10 @@ I’m interested in collaborating on:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alt-bwire&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alt-bwire&layout=compact&theme=dracula" height="150"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-seven-tau-54.vercel.app/api?username=alt-bwire&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats-seven-tau-54.vercel.app/api/top-langs/?username=alt-bwire&layout=compact&theme=dracula" height="150"/>
+</p>
 
 ---
 
